@@ -1,4 +1,7 @@
 materi pti
-pengenalan sistem komputer
-komponen komputer
-konversi bilangan
+1.pengenalan sistem komputer
+2.komponen komputer
+3.konversi bilangan
+4.operasi sistem
+5.daftar isi
+6.daftar pustaka
